@@ -4,7 +4,9 @@ import CustomTabs from './Components/TabComponent/CustomTabs'
 function App() {
   return (
     <div className='App'>
+      
       <CustomTabs />
+      
     </div>
   )
 }
